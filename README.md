@@ -1,2 +1,2 @@
 # gaming
-A simple python game made with pygame.
+The famous game of Pong implemented in Python with Pygame!
